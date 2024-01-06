@@ -1,0 +1,6 @@
+int32 mot_1_enc_val
+int32 mot_2_enc_val
+int32 current_step_m1
+int32 total_steps_m1
+int32 current_step_m2
+int32 total_steps_m2
